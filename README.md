@@ -14,7 +14,7 @@ This Power BI dashboard analyzes sales performance across regions, products, and
 - Regional sales comparison
 
 ## 🖼 Dashboard Preview
-![Dashboard](Screenshots/Dashboard%20pic.jpeg)
+![Dashboard](Screenshots/Dashboard_pic.jpeg)
 
 
 ## 📁 Files Included
