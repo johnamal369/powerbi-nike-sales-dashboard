@@ -14,7 +14,7 @@ This Power BI dashboard analyzes sales performance across regions, products, and
 - Regional sales comparison
 
 ## 🖼 Dashboard Preview
-![Dashboard](images/dashboard_preview.png)
+![Dashboard](Power B I-Nike sales-Dashboard/Screenshots/Dashboard pic.jpeg)
 
 ## 📁 Files Included
 - Sales_Dashboard.pbix – Power BI file
